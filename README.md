@@ -1,1 +1,1 @@
-# Image Processing - Labs - Tajani Mohamed
+# Image Processing Labs - Tajani Mohamed
